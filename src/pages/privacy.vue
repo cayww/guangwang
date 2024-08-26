@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'RBix'
+const appName = 'Chrdct'
 </script>
 
 <template>
