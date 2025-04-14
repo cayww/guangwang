@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Lulir'
+const appName = 'VXlink'
 </script>
 
 <template>
