@@ -304,14 +304,6 @@ const appName = 'DaKio'
     result of a breach of security, we will promptly notify you if your personal
     information has been compromised, as required by applicable law.
     <br><br>
-    3.6 Use of Leaderboard Data
-    <br><br>
-    Any data voluntarily submitted by users for display on leaderboards within the Dakio application (including but not
-    limited to nickname, avatar, scores, and rankings) will be used solely for in-app display purposes to enhance user
-    engagement. This data will not be used for any purposes outside of the Dakio product, such as advertising, external
-    analytics, or sharing with third parties. Additionally, leaderboard data will not be retained indefinitely and will
-    be deleted or anonymized when no longer necessary for leaderboard functionality.
-    <br><br>
     Where we do share your personal information with any third parties, we will
     use reasonable efforts to ensure that such third parties only use your
     personal information:
@@ -320,6 +312,14 @@ const appName = 'DaKio'
     <br><br>
     (ii) subject to any other instructions we give them, including any
     appropriate confidentiality and security measures that we implement.
+    <br><br>
+    3.6 Use of Leaderboard Data
+    <br><br>
+    Any data voluntarily submitted by users for display on leaderboards within the Dakio application (including but not
+    limited to nickname, avatar, scores, and rankings) will be used solely for in-app display purposes to enhance user
+    engagement. This data will not be used for any purposes outside of the Dakio product, such as advertising, external
+    analytics, or sharing with third parties. Additionally, leaderboard data will not be retained indefinitely and will
+    be deleted or anonymized when no longer necessary for leaderboard functionality.
     <br><br>
     <div class="bt">
       4.How to Access Your Information
